@@ -40,6 +40,7 @@
 ## Видео
 
 * [Екатерина Шульман](https://www.youtube.com/channel/UCL1rJ0ROIw9V1qFeIN0ZTZQ/videos) - политология здорового человека
+* [Scitopus](https://scitopus.com/) - агрегатор всех научно-популярных видео.
 
 **[⬆ наверх](#содержание)**
 
@@ -60,3 +61,4 @@
 Чтобы улучшить или дополнить этот список, [создайте pull-request](https://github.com/urfu-2015/guides/blob/master/how-to-pull-request.md)
 
 **[⬆ наверх](#содержание)**
+
